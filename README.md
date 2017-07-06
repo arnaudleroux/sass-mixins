@@ -30,7 +30,7 @@ Sass Mixins Library
 
 ### transition
 ```scss
-@minclude transition($args...)
+@include transition($args...)
 ```
 
 ```scss
