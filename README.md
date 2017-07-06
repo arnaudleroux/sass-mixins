@@ -5,7 +5,7 @@ Sass Mixins Library
 
 * [`box-sizing`](#box-sizing)
 * [`transition`](#transition)
-* [`translateY`](#translateY)
+* [`translateY`](#translatey)
 * [`user-select`](#user-select)
 
 **Flex Mixins**
