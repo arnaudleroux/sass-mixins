@@ -1,0 +1,5 @@
+@mixin justify-content($value) {
+  -webkit-justify-content: $value;
+  -moz-justify-content: $value;
+  justify-content: $value;
+}
