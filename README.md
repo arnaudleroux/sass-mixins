@@ -16,6 +16,9 @@ Sass Mixins Library
 
 
 ### box-sizing
+```scss
+@include box-sizing($value)
+```
 
 ```scss
 @mixin box-sizing($value) {
@@ -23,5 +26,4 @@ Sass Mixins Library
   -moz-box-sizing: $value;
   box-sizing: $value;
 }
-
 ```
